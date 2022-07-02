@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sappylatice60!
-- 👀 I’m interested in learning new game engines.
-- 🌱 I’m currently learning a major game i hope.
-- 💞️ I’m looking to collaborate on nothing right now.
+- 👀 I’m interested in learning new game engines
+- 🌱 I’m currently learning Godot Game Engine right now
+- 💞️ I’m looking to collaborate on nothing right now
 - 🎮 My itch.io page is https://sappylatice60.itch.io/
+- 🕹 I currently know how to use construct 3
